@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/lisaco-ono/lab-in-button#readme",
   "dependencies": {
-    "dash-button": "^3.2.0"
+    "dash-button": "^3.2.0",
+    "dotenv": "^5.0.1"
   }
 }

@@ -1,6 +1,8 @@
 const DashButton = require("dash-button");
 
-const PHY_ADDR = "fc:a6:67:18:d8:40"; // ここでフィジカルアドレスを指定
+const PHY_ADDR = process.env.PHY_ADDR_MACHERIE
+
+// const PHY_ADDR = phy_addr; // ここでフィジカルアドレスを指定
 
 let button = new DashButton(PHY_ADDR); // ボタンのアドレスを引数に渡してDashButtonクラスを呼び出し
 
