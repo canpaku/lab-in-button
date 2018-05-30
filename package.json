@@ -1,0 +1,26 @@
+{
+  "name": "lab_in",
+  "version": "1.0.0",
+  "description": "amazon-dash-button login version",
+  "main": "app.js",
+  "scripts": {
+    "test": "console.log(\"it is a test.\");",
+    "scan": "dash-button scan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisaco-ono/lab-in-button.git"
+  },
+  "keywords": [
+    "amazon-dash-button"
+  ],
+  "author": "lisaco-ono",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisaco-ono/lab-in-button/issues"
+  },
+  "homepage": "https://github.com/lisaco-ono/lab-in-button#readme",
+  "dependencies": {
+    "dash-button": "^3.2.0"
+  }
+}
