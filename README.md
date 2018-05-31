@@ -1,0 +1,1 @@
+## 「ラボログイン」用ボタンをAmazon dash buttonで
